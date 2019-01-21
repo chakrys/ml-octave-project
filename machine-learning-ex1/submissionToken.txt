@@ -1,0 +1,15 @@
+
+Deadline	
+Pass this assignment by January 6, 11:59 PM PST
+InstructionsMy submissionDiscussions
+Download the programming assignment here. This ZIP file contains the instructions in a PDF and the starter code. You may use either MATLAB or Octave (>= 3.8.0). 
+
+To submit this assignment, call the included submit function from MATLAB / Octave. You will need to enter the token provided on the right-hand side of this page.
+
+How to submit
+Copy the token below and run the submission script included in the assignment download. When prompted, use your email address chakry.sattaluri@gmail.com.
+
+DXxdTzwJWQfwO7kt
+Generate new token
+
+Your submission token is unique to you and should not be shared with anyone. You may submit as many times as you like.
